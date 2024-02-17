@@ -1,0 +1,1 @@
+-First we have to pay 5$ to onn the developer mode to upload our extensions in chrome store 
