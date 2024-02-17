@@ -1,1 +1,2 @@
 -First we have to pay 5$ to onn the developer mode to upload our extensions in chrome store 
+-we used the API link to generate the random jokes in Json formate ."https://icanhazdadjoke.com/slack"
